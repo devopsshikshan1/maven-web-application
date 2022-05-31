@@ -96,13 +96,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>admin</id>
+	      <id>maven-releases</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://ec2-3-109-209-9.ap-south-1.compute.amazonaws.com:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>maven-snapshots</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://ec2-3-109-209-9.ap-south-1.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
